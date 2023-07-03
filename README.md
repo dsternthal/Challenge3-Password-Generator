@@ -8,6 +8,9 @@ I had to add an and (&&) parameter to each of the if statements in order to retu
 
 ![screenshot of the && statement.](./Assets/Screenshot%202023-07-03%20at%204.23.16%20PM.png)
 
+
+
+You can find my deplyed site here: 
 ## Acceptance Criteria
 
 ```
