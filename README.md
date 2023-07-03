@@ -10,7 +10,8 @@ I had to add an and (&&) parameter to each of the if statements in order to retu
 
 
 
-You can find my deplyed site here: 
+You can find my deplyed site here: https://dsternthal.github.io/Challenge3-Password-Generator/
+
 ## Acceptance Criteria
 
 ```
